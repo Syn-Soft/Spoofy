@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainDark">#282828</color>
+    <color name="main_color">#877BD3</color>
+    <color name="main_color_alt">#676Bb3</color>
+    <color name="accent_color">#991212</color>
+    <color name="accent_color_alt">#892239</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#efefef</color>
+</resources>
