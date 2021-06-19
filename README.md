@@ -1,4 +1,4 @@
-# Spoofy \[Android\] (Gonna change that name probably)
+# Spoofy (Gonna change that name probably)
 A spotify clone with the intention of generating more money for bands and less for our pockets.
 
 # About
